@@ -1,0 +1,4 @@
+Modrinth
+To get the path of your pack instance in the Modrinth App, right-click your instance, and click "Open Folder".
+EITHER: Then, right-click the address bar in the newly opened Explorer window and click "Copy Path". Now paste the path into the "Instance Folder" field.
+OR: Then, go up a folder (\u2191 button in the upper-left of Explorer) and drag the instance folder from there right into the text field.
