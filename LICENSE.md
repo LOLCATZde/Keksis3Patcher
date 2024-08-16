@@ -7,6 +7,8 @@ and the **owner** ("**Licensor**", "**Developer**") of this **copyrightable lice
 
 The License is a free, "copymiddle" license intended for use with software or other kinds of works. LCDL is made to not grant too many rights to any business users, and favours the decision of the owner.
 
+By obtaining, distributing and/or using the program by f.e. modifying and/or copying code or running compiled binaries and/or uncompiled source code you agree to all the terms of the **LOLCATZ Digital License**.
+
 ## The "It's Your Fault!" policy - Warranties
 **The Product, and any works licensed under the LOLCATZ Digital License come with NO WARRANTIES AT ALL.**
 
