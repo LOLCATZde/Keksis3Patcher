@@ -1,32 +1,52 @@
 # LOLCATZ Digital License (LCDL)
 Copyright (c) 2024 LOLCATZ.DE / LOLCATZ Digital
 
-## General information
-The **LOLCATZ Digital License** (in this document also referred to as "**LCDL**" or "**License**") is a contract between the **licensee** (referred to as "**you**" or "**user**")
-and the **owner** ("**Licensor**", "**Developer**") of this **copyrightable licensed work** ("**Program**", "**Product**").
+## Preamble
+This **LOLCATZ Digital License** (hereinafter referred to as **"LCDL" or "License"**) constitutes a legally binding agreement between the **licensee** (hereinafter **"Licensee" or "User"**) and the **copyright holder** (hereinafter **"Licensor" or "Developer"**) of the licensed **intellectual property** (hereinafter **"Product"**).
 
-The License is a free, "copymiddle" license intended for use with software or other kinds of works. LCDL is made to not grant too many rights to any business users, and favours the decision of the owner.
+The License is designed as a flexible, source-available license that prioritizes the Licensor's rights while providing limited use permissions to end-users. By accessing, distributing, modifying, or utilizing the Product in any form, the User explicitly agrees to all terms and conditions outlined herein.
 
-By obtaining, distributing and/or using the program by f.e. modifying and/or copying code or running compiled binaries and/or uncompiled source code you agree to all the terms of the **LOLCATZ Digital License**.
-
-## The "It's Your Fault!" policy - Warranties
-**The Product, and any works licensed under the LOLCATZ Digital License come with NO WARRANTIES AT ALL.**
-
-**THE LICENSOR DOES NOT WARRANT THAT THE PRODUCT WILL WORK ON THE DEVICE OF THE USER AND/OR UNDER THE CIRCUMSTANCES OF THE USER AND/OR THEIR DEVICE. THE LICENSOR IS NOT RESPONSIBLE FOR ANY DAMAGE THE PRODUCT MAY CAUSE.**
-**THE LICENSOR DOES NOT GUARANTEE ANY PRODUCT SUPPORT AT ALL. YOU ARE ON YOUR OWN - YOU HAVE BEEN ADVISED.**
+## Warranties and Limitations of Liability
+### Disclaimer of Warranties
+THE PRODUCT IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. THE LICENSOR MAKES NO REPRESENTATIONS OR WARRANTIES REGARDING THE PRODUCT'S:
+- Fitness for a particular purpose
+- Merchantability
+- Performance
+- Compatibility with any specific system or environment
+### Limitation of Liability
+THE LICENSOR SHALL NOT BE LIABLE FOR ANY:
+- Direct or indirect damages
+- Consequential or incidental damages
+- Loss of profits
+- Interruption of business ARISING FROM THE USE, INABILITY TO USE, OR THE RESULTS OF USE OF THE PRODUCT
 
 ## Terms and conditions
-1. The Program bundled with the License is intended for personal use only. The user is not allowed any business use without prior notice to and approval of the Developer of the Program.
-2. The Program is open-source, meaning anyone can access the source code. Distributing versions of the Program using any modified source code without clearly stating:
-    - The Program has been modified by you
-    - The Program has not been modified by the Licensor
-    - The Licensor does not endorse the modifications you made
-    - The Program is based on the source code of the Developer
-    - Any other kinds of credits the Developer wants you to state, clearly visible in their README file
-
-    is not allowed.
-3. Distributing versions of the Program using any modified object code is not allowed.
-    - You are allowed to modify the object code without distributing it.
-4. You are not allowed to sell the Program for profit in any kind of way without approval and/or negotiation of and/or with the Developer.
-5. Any modifications you make to the Program are required to use the LCDL as well.
-6. Any code bundled with the Program and/or modifications of it not owned by the Licensor or already licensed using LCDL remain licensed under their respective license and are owned by their respective licensors and owners.
+1. Scope of Use
+    1. The Product is licensed exclusively for personal, non-commercial use.
+    2. Commercial use requires prior written consent from the Licensor. Unauthorized commercial exploitation is strictly prohibited.
+2. Source Code Distribution
+    1. Source Code Modifications
+       - Any modifications to the source code must be clearly documented
+       - Modified versions must include:
+            1. Explicit statement of modifications
+            2. Disclaimer of Licensor's endorsement
+            3. Clear attribution to the original source
+            4. Compliance with all credit requirements specified in the README
+    2. Redistribution Requirements
+       - Redistributed versions must:
+            1. Retain all original copyright notices
+            2. Include the complete **LCDL** license text
+            3. Clearly indicate any changes made
+3. Object Code Restrictions
+    1. Distribution of modified object code is prohibited.
+    2. Users may modify object code for personal use, but may not distribute such modifications.
+4. Commercial Exploitation
+    - Selling or commercially exploiting the Product is prohibited without explicit written permission from the Licensor.
+5. Licensing of Derivatives
+    - All derivative works must be licensed under the **LCDL**.
+6. Third-Party Code
+    1. Any third-party code included in the Product remains subject to its original licensing terms.
+    2. The rights of the original third-party licensors are fully preserved.
+      
+## Conclusion
+By using this Product, the User acknowledges understanding and accepting these terms in full.
